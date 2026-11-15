@@ -6,7 +6,7 @@ Unity와 C#으로 게임 클라이언트를 개발합니다. Android 2D 생존 �
 
 | 프로젝트 | 구현 내용 | 바로 보기 |
 | --- | --- | --- |
-| **LastArena** · Android 2D 생존 게임 | 드래그 이동, 자동 조준, 발사체 풀링, 결과 점수 집계 | [Google Play](https://play.google.com/store/apps/details?id=com.CHOCompany.LastArena) · [게임플레이](https://youtu.be/OM-EqR9C4nw) · [기술 문서](https://zinc-lipstick-51c.notion.site/LastArena-310d3addd2cb80fa87d5dc37f3455617) |
+| **LastArena** · Android 2D 생존 게임 | 드래그 이동, 자동 조준, 발사체 풀링, 결과 점수 집계 | [Google Play](https://play.google.com/store/apps/details?id=com.CHOCompany.LastArena) · [게임플레이](https://youtu.be/OM-EqR9C4nw) · [기술 문서](https://zinc-lipstick-51c.notion.site/LastArena-310d3addd2cb80fa87d5dc37f3455617) · [코드 샘플](https://github.com/ChoDoGyu/LastArena-Portfolio) |
 | **UnityRPG** · 3D 액션 RPG 버티컬 슬라이스 | 플레이어 전투, 적 AI와 보스 패턴, 퀘스트, 장비, JSON 저장·이어하기 | [소스 코드](https://github.com/ChoDoGyu/UnityRPG) · [게임플레이](https://youtu.be/m8P98AnVkJM) |
 | **Sudology** · 2D 스도쿠 | 유일 해답을 확인하는 퍼즐 생성, 입력 Undo/Redo, 진행 상태 저장 | [WebGL 데모](https://sudology-demo.netlify.app/) · [소스 코드](https://github.com/ChoDoGyu/Sudology) |
 
